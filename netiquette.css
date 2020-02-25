@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+par {
+	font-family: Gill Sans;
+}
+ div{
+	background-color: black;
+	border: 5px solid;  
+	
+		 
+}
+.head {
+	font-family: Palatino;
+	font-weight: bolder;
+}
+.title {
+	Background-color: lightblue;
+	border: 5px outset #4D50CA;
+	border-bottom-right-radius: 15px;
+	border-top-left-radius: 15px; 
+	border-width: thick;
+	
+
+		
+}
+body {
+	background-color: black;
+	color: #3B5DBF;
+
+}
+h1{
+	
+	border: solid #3B5DBF;
+	border-spacing: inherit;
+	text-align: center;
+	
+}
+
+h2{
+	
+	border: 5px solid #08307d;
+	margin: 10px
+		
+}
+
+div {
+	margin: auto;
+	width: 900px;
+	
+	
+}
+
+	
